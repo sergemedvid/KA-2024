@@ -2,6 +2,22 @@
 
 This is an environment for the Computer Architectures test project.
 
+## Prerequisites (MacOS only)
+
+If you don't have Homebrew installed, install it by running the following command in your terminal:
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+Then, in the same terminal, install dosbox-x:
+
+```bash
+brew install dosbox-x
+```
+
+!!! Relaunch your VS Code after installing dosbox-x !!!
+
 ## Preparing the Environment
 
 To prepare the environment, follow these steps:
