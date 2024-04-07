@@ -3,3 +3,4 @@ TDCONFIG.TD
 *.MAP
 *.OBJ
 testdata/res/*
+!testdata/res/.touch
