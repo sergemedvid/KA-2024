@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "compulim.vscode-clock",
-        "xsro.masm-tasm"
+        "xsro.masm-tasm",
+        "maziac.asm-code-lens"
     ]
 }
