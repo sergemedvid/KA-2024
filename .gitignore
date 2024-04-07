@@ -1,0 +1,5 @@
+TDCONFIG.TD
+*.EXE
+*.MAP
+*.OBJ
+testdata/res/*
