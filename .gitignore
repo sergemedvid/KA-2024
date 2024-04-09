@@ -5,4 +5,8 @@ TDCONFIG.TD
 *.TR
 testdata/res/*
 !testdata/res/.touch
+testdata/in/*
+!testdata/in/.touch
+testdata/out/*
+!testdata/out/.touch
 TEMP-*.ASM
