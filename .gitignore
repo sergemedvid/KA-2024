@@ -7,6 +7,6 @@ testdata/res/*
 !testdata/res/.touch
 testdata/in/*
 !testdata/in/.touch
-testdata/out/*
-!testdata/out/.touch
+testdata/ok/*
+!testdata/ok/.touch
 TEMP-*.ASM
