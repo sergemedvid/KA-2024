@@ -9,4 +9,4 @@ testdata/in/*
 !testdata/in/.touch
 testdata/ok/*
 !testdata/ok/.touch
-TEMP-*.ASM
+TEMP-*
